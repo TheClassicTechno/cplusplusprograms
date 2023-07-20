@@ -1,0 +1,4 @@
+terminal -- run build task
+open new vscode terminal, do .\file name without .cpp
+
+if change code in a cpp file must do run build task again
